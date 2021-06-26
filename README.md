@@ -28,6 +28,11 @@ You can configure the fallback filename on your site's `config.yml` file.
 ```yml
 fallback_to_index: "Readme"
 ```
+
+## Motivation to create this plugin
+
+The Collective app for Nextcloud creates `Readme.md` files by default. Creating a website pointing to a Collective folder doesn't work so I created this app to solve the problem.
+
 ---
 
 That's it. If you have questions, go ahead and ask. If you have issues, you can add them to the [issue tracker](https://github.com/lyseontech/PicoIndexFallback/issues).
