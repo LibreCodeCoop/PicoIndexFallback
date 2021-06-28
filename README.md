@@ -35,7 +35,7 @@ The Collective app for Nextcloud creates `Readme.md` files by default. Creating 
 
 ---
 
-That's it. If you have questions, go ahead and ask. If you have issues, you can add them to the [issue tracker](https://github.com/lyseontech/PicoIndexFallback/issues).
+That's it. If you have questions, go ahead and ask. If you have issues, you can add them to the [issue tracker](https://github.com/LibreCodeCoop/PicoIndexFallback/issues).
 
 🎉 Thank you to everyone who has helped contribute to this plug in!
 
